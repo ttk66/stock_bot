@@ -71,13 +71,19 @@ Telegram-аккаунт
 
 2. Установка
 Вариант A: Использование conda
+
 conda create -n stock_bot_env python=3.12 -y
+
 conda activate stock_bot_env
+
 pip install -r requirements.txt
 
 Вариант B: Использование virtualenv
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 3. Настройка
