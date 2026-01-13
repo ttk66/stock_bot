@@ -1,0 +1,10 @@
+python-telegram-bot
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+prophet
+tensorflow
+scipy
